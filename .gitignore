@@ -1,0 +1,9 @@
+db.sqlite3
+media
+static
+tokens.json
+migrations
+__init__.py
+__pycache__
+.env
+venv
