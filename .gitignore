@@ -1,4 +1,4 @@
-db.sqlite3
+django_base/db.sqlite3
 media
 static
 tokens.json
